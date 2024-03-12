@@ -4,22 +4,27 @@
 
 Gathered the Excel sheet containing legal Latin phrases and the PDF files containing case documents from the Supreme Court of Indiana.
 Understood the structure and content of the data, including the format of the Excel sheet and the layout of the PDF documents.
+
 **Data Preprocessing:**
 
 Converted the PDF documents to text format for easier analysis.
 Cleaned and preprocessed the text data to remove irrelevant information, such as headers, footers, and page numbers.
 Loaded the legal Latin phrases from the Excel sheet into a data structure for matching.
+
 **Exploratory Data Analysis (EDA):**
 
 Explored the text data to understand its characteristics, such as word frequency distributions, common patterns, and relevant features.
 Visualized the data using charts and graphs to gain insights into trends and patterns.
+
 **Feature Extraction:**
 
 Used regular expressions or other text processing techniques to extract relevant features, such as case names, citations, judge names, and Latin phrases, from the text data.
 Counted the occurrences of each Latin phrase in the text files.
+
 **Data Analysis:**
 
 Analyzed the extracted features to answer specific questions or address the project objectives, such as identifying the most frequently occurring Latin phrases, determining the distribution of citations across cases, analyzing trends in judge names or case years, and examining the relationship between Latin phrases and case outcomes.
+
 **Output and Visualization:**
 
 Generated visualizations, summary statistics, and reports to communicate the findings of the analysis effectively.
