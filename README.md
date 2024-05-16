@@ -70,13 +70,15 @@ Accurately identified case names, citations, judge names, and presence of Latin 
 Output CSV file provided comprehensive overview, including frequency of each Latin phrase across all documents.
 Project streamlined analysis process and provided valuable insights for further research and analysis.
 
+this is the data screenshot
 
 <img width="1065" alt="Screen Shot 2024-05-16 at 1 16 47 PM" src="https://github.com/HymavathiG2712/Legal-Text-Mining-and-Information-Extraction-System/assets/122757491/5e041a1e-47ad-4f41-a1d9-e54339fbde5b">
 
 
+this is the results screenshot
 <img width="1197" alt="Screen Shot 2024-05-16 at 1 11 55 PM" src="https://github.com/HymavathiG2712/Legal-Text-Mining-and-Information-Extraction-System/assets/122757491/85b49766-8aa8-4521-b6a6-4352e37fa4a3">
 
-
+this is the python code along with the results screenshot
 <img width="1109" alt="Screen Shot 2024-05-16 at 1 15 37 PM" src="https://github.com/HymavathiG2712/Legal-Text-Mining-and-Information-Extraction-System/assets/122757491/4b70528d-07e1-4378-8ff1-0a507ff15508">
 
 
